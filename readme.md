@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/CpMm2Yz0/pexels-sora-shimazaki-5668858.jpg"  />
+  <img height="400" src="https://github.com/shahbaz-kamal/interview-prep-hubs/blob/main/assests/banner.jpg"  />
 </div>
 
 
