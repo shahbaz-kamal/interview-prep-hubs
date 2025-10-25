@@ -1,0 +1,3 @@
+[submodule "DBMS/Theory"]
+	path = DBMS/Theory
+	url = https://github.com/shahbaz-kamal/dbms_theory.git
