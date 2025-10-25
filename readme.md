@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img height="400" src="https://i.ibb.co.com/CpMm2Yz0/pexels-sora-shimazaki-5668858.jpg"  />
+</div>
+
+
+
 # 🧠 Interview Prep Hub
 
 This repository is a collection of technical interview questions and answers I've prepared for practice and review.  
